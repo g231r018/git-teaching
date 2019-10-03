@@ -18,7 +18,7 @@ git push origin master
 ```
 5. githubのフォーク先リポジトリからフォーク元のリポジトリへプルリクエストを送る
 
-#・フォーク元の変更をフォーク先に反映させるまでの手順
+# ・フォーク元の変更をフォーク先に反映させるまでの手順
 1. (すでに行っていない場合)フォーク元リポジトリをリモートリポジトリ先として設定する
 ```
 git remote add upstream https://github.com/IRcpjs/git-teaching.git
